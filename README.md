@@ -49,6 +49,9 @@
 
    Если вы хотите внести изменения в этот проект, вы можете создать форк репозитория, внести изменения и отправить запрос на слияние (pull request). Ваши предложения будут рассмотрены.
 
+5. **Лицензия**:
+
+   Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
 
 
 
@@ -102,4 +105,6 @@
 
    If you want to make changes to this project, you can fork the repository, make your changes, and submit a pull request. Your contributions will be reviewed.
 
+5. **License**:
 
+   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
