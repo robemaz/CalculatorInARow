@@ -10,13 +10,13 @@
    1. Клонируйте репозиторий на свой компьютер:
 
       ```bash
-      git clone https://github.com/ваш-пользователь/ваш-репозиторий.git
+      git clone https://github.com/robemaz/CalculatorInARow.git
       ```
 
    2. Перейдите в каталог с проектом:
 
       ```bash
-      cd ваш-репозиторий
+      cd CalculatorInARow
       ```
 
    3. Запустите программу:
@@ -66,13 +66,13 @@
    1. Clone the repository to your computer:
 
       ```bash
-      git clone https://github.com/your-username/your-repo.git
+      git clone https://github.com/robemaz/CalculatorInARow.git
       ```
 
    2. Navigate to the project directory:
 
       ```bash
-      cd your-repo
+      cd CalculatorInARow
       ```
 
    3. Run the program:
